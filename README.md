@@ -1,13 +1,38 @@
-Heart Disease Prediction with Machine Learning in Python
+ ❤️ Heart Disease Prediction using Machine Learning
 
-The project builds a Heart Disease Prediction app using Machine Learning (ML) with Python. In the video, they develop a complete workflow that includes data analysis, model training, and a user-friendly interface.
+This project predicts the likelihood of heart disease using Machine Learning techniques.  
+The model is trained on medical dataset features such as age, cholesterol, blood pressure, and other health indicators.  
+A Streamlit web application is used to provide an interactive user interface for prediction.
 
-Key Features 
-. Machine Learning Model Training
-.Data Analysis and Preprocessing
-.User Input Interface
-. Prediction Out
-. Built with Python & Streamlit
-.Interactive and Easy to Use
+
+ 🚀 Features
+- Data preprocessing and analysis
+- Model training and evaluation
+- Heart disease prediction
+- Interactive Streamlit web app
+
+ 🛠 Technologies Used
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Matplotlib & Seaborn
+- Plotly
+- Streamlit
+
+ 📁 Project Files
+- 'training_notebook.ipynb' – Model training and evaluation
+- 'heart_app.py' – Streamlit web application
+- 'heart.csv' – Dataset
+- 'requirements.txt' – Required Python libraries
+
+
+ ⚙️ How to Run
+
+Install the required libraries and run:  streamlit run heart_app.py
+
+
+
+ 📌 Project By
+Sreelekshmi S
 
 
